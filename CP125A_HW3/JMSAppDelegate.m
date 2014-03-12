@@ -12,6 +12,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+//    self.window.translatesAutoresizingMaskIntoConstraints = NO;
     // Override point for customization after application launch.
     return YES;
 }

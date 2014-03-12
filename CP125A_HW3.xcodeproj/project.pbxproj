@@ -461,6 +461,7 @@
 				936E1F511899FD9400B5BDAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		936E1F521899FD9400B5BDAB /* Build configuration list for PBXNativeTarget "CP125A_HW3Tests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				936E1F541899FD9400B5BDAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
